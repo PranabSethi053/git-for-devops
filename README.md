@@ -8,3 +8,4 @@ Includes:
 
 - Commands
 - Tutorials
+- Videos
